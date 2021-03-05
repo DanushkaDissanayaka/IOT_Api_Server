@@ -1,0 +1,14 @@
+{
+  "name": "for_api_test",
+  "version": "1.0.0",
+  "description": "this is an simple api for restapi enpoint test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danushka Dissanayaka",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
